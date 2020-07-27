@@ -14,9 +14,8 @@
 </a>
 
 <br/>
-<br/>
 
-#### Pianist | Software Developer | Allegheny Mozilla Fellow
+### Pianist | Software Developer | Allegheny Mozilla Fellow
 
 I'm a rising senior at Allegheny College, double majoring in **Computer Science** and **Music**,
 thinking about the interaction of music and humanity in the digital world, currently
