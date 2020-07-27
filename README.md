@@ -21,13 +21,13 @@ I'm a rising senior at Allegheny College, double majoring in **Computer Science*
 thinking about the interaction of music and humanity in the digital world, currently
 researching in natural language processing and experimental music.
 
-- Currently working on [Tada](https://github.com/Tada-Project/tada) and [textMining](https://github.com/Allegheny-Mozilla-Fellows/textMining).
-- Learning about ML, React.js, Node.js, and audio processing (or just some random things).
-- Trying to learn jazz improv.
-- Interested in digital journalism recently.
-- I run a instagram playlist [account](https://www.instagram.com/emacvault/?hl=en) if you would like to listen to some new music weekly.
-- See my [resume](https://enpuyou.netlify.app/static/resume-c9961bc0a3dd2a84517bdc486dec9118.pdf) to get more info.
-- Reach me at youenpu@gmail.com
+- :dart: Currently working on [Tada](https://github.com/Tada-Project/tada) and [textMining](https://github.com/Allegheny-Mozilla-Fellows/textMining).
+- :electric_plug: Learning about ML, React.js, Node.js, and audio processing (or just some random things).
+- :musical_keyboard: Trying to learn jazz improv.
+- :tv: Recently interested in digital journalism.
+- :headphones: I run a instagram playlist [account](https://www.instagram.com/emacvault/?hl=en) if you would like to listen to some new music weekly.
+- :page_facing_up: See my [resume](https://enpuyou.netlify.app/static/resume-c9961bc0a3dd2a84517bdc486dec9118.pdf) to get more info.
+- :email: Reach me at youenpu@gmail.com
 
 ![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&title_color=5232a8&icon_color=457a59)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enpuyou&layout=compact&title_color=5232a8)](https://github.com/enpuyou)
@@ -35,19 +35,25 @@ researching in natural language processing and experimental music.
 ### Things I have worked with
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-plain.svg" alt="c" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="node-js" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="25" height="25" />
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vagrant/vagrant-original.svg" alt="vagrant" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="25" height="25" />
 </p>
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Allegheny-Mozilla-Fellows&repo=textMining)](https://github.com/Allegheny-Mozilla-Fellows/textMining)
