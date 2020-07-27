@@ -21,6 +21,13 @@ I'm a rising senior at Allegheny College, double majoring in **Computer Science*
 thinking about the interaction of music and humanity in the digital world, currently
 researching in natural language processing and experimental music.
 
+- Currently working on [Tada](https://github.com/Tada-Project/tada) and [textMining]((https://github.com/Allegheny-Mozilla-Fellows/textMining)).
+- Learning about ML, React.js, Node.js, and audio processing (or just some random things).
+- I'm trying to learn jazz improv.
+- I'm interested in digital journalism recently.
+- See my [resume](https://enpuyou.netlify.app/static/resume-c9961bc0a3dd2a84517bdc486dec9118.pdf) to get more info.
+- Reach me at youenpu@gmail.com
+
 ![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&title_color=5232a8&icon_color=457a59)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enpuyou&layout=compact&title_color=5232a8)](https://github.com/enpuyou)
 
