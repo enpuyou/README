@@ -4,7 +4,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Allegheny-Mozilla-Fellows&repo=textMining&show_owner=true)](https://github.com/Allegheny-Mozilla-Fellows/textMining)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tada-Project&repo=tadat&show_owner=true)](https://github.com/Tada-Project/tada)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tada-Project&repo=tada&show_owner=true)](https://github.com/Tada-Project/tada)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=enpuyou&repo=script-api-lambda-dynamodb&show_owner=true)](https://github.com/enpuyou/script-api-lambda-dynamodb)
 
