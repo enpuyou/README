@@ -21,7 +21,7 @@ I'm a rising senior at Allegheny College, double majoring in **Computer Science*
 thinking about the interaction of music and humanity in the digital world, currently
 researching in natural language processing and experimental music.
 
-![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&title_color=#5232a8&icon_color=#8df2b4)
+![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&title_color=5232a8&icon_color=8df2b4)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enpuyou&layout=compact&count_private=true)](https://github.com/enpuyou)
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Allegheny-Mozilla-Fellows&repo=textMining)](https://github.com/Allegheny-Mozilla-Fellows/textMining)
