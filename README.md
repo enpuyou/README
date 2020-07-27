@@ -1,9 +1,31 @@
-![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enpuyou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Hi I'm [Enpu](https://enpuyou.netlify.app) :eyes::space_invader:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Allegheny-Mozilla-Fellows&repo=textMining&show_owner=true)](https://github.com/Allegheny-Mozilla-Fellows/textMining)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tada-Project&repo=tada&show_owner=true)](https://github.com/Tada-Project/tada)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=enpuyou&repo=script-api-lambda-dynamodb&show_owner=true)](https://github.com/enpuyou/script-api-lambda-dynamodb)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GatorEducator&repo=gatorgradle&show_owner=true)](https://github.com/GatorEducator/gatorgradle)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVMf&repo=avmf&show_owner=true)](https://github.com/AVMf/avmf)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inTestiGator&repo=pytest-santa&show_owner=true)](https://github.com/inTestiGator/pytest-santa)
+<a href="https://www.linkedin.com/in/enpuyou/">
+  <img align="left" alt="Enpu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/enpuyou">
+  <img align="left" alt="Enpu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com">
+  <img align="left" alt="Enpu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UC1jivHCNYHYxwruBZgnMtrw?view_as=subscriber">
+  <img align="left" alt="Enpu's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/>
+
+**Pianist | Software Developer | Allegheny Mozilla Fellow**
+
+![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enpuyou&layout=compact&count_private=true)](https://github.com/enpuyou)
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Allegheny-Mozilla-Fellows&repo=textMining)](https://github.com/Allegheny-Mozilla-Fellows/textMining)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tada-Project&repo=tada)](https://github.com/Tada-Project/tada)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=enpuyou&repo=script-api-lambda-dynamodb)](https://github.com/enpuyou/script-api-lambda-dynamodb)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GatorEducator&repo=gatorgradle)](https://github.com/GatorEducator/gatorgradle)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVMf&repo=avmf)](https://github.com/AVMf/avmf)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inTestiGator&repo=pytest-santa)](https://github.com/inTestiGator/pytest-santa) -->
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enpuyou.enpuyou)
