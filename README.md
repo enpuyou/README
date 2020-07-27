@@ -21,7 +21,7 @@ I'm a rising senior at Allegheny College, double majoring in **Computer Science*
 thinking about the interaction of music and humanity in the digital world, currently
 researching in natural language processing and experimental music.
 
-- :dart: Currently working on [Tada](https://github.com/Tada-Project/tada) and [textMining](https://github.com/Allegheny-Mozilla-Fellows/textMining).
+- :dart: Currently working on [Tada](https://github.com/Tada-Project/tada) and [TextMining](https://github.com/Allegheny-Mozilla-Fellows/textMining).
 - :electric_plug: Learning about ML, React.js, Node.js, and audio processing (or just some random things).
 - :musical_keyboard: Trying to learn jazz improv.
 - :tv: Recently interested in digital journalism.
