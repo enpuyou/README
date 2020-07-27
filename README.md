@@ -1,4 +1,4 @@
-## Hi I'm [Enpu](https://enpuyou.netlify.app) :eyes::space_invader:
+# Hi I'm [Enpu](https://enpuyou.netlify.app) :eyes::space_invader:
 
 <a href="https://www.linkedin.com/in/enpuyou/">
   <img align="left" alt="Enpu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,7 +16,11 @@
 <br/>
 <br/>
 
-**Pianist | Software Developer | Allegheny Mozilla Fellow**
+#### Pianist | Software Developer | Allegheny Mozilla Fellow
+
+I'm a rising senior at Allegheny College, double majoring in **Computer Science** and **Music**,
+thinking about the interaction of music and humanity in the digital world, currently
+researching in natural language processing and experimental music.
 
 ![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enpuyou&layout=compact&count_private=true)](https://github.com/enpuyou)
@@ -28,4 +32,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVMf&repo=avmf)](https://github.com/AVMf/avmf)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inTestiGator&repo=pytest-santa)](https://github.com/inTestiGator/pytest-santa) -->
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enpuyou.enpuyou)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enpuyou.enpuyou&title=Views)
