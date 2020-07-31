@@ -64,3 +64,5 @@ researching in natural language processing and experimental music.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inTestiGator&repo=pytest-santa)](https://github.com/inTestiGator/pytest-santa) -->
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enpuyou.enpuyou&title=Views)
+
+<iframe src="https://open.spotify.com/embed/playlist/1Ne1izrcK7dCI1oKuq9nt1" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
