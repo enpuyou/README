@@ -17,7 +17,7 @@
 
 ### Pianist | Software Developer | Allegheny Mozilla Fellow
 
-I'm a rising senior at Allegheny College, double majoring in **Computer Science** and **Music**,
+I'm a senior at Allegheny College, double majoring in **Computer Science** and **Music**,
 thinking about the interaction of music and humanity in the digital world, currently
 researching in natural language processing and experimental music.
 
@@ -25,7 +25,6 @@ researching in natural language processing and experimental music.
 - :electric_plug: Learning about ML, React.js, Node.js, and audio processing (or just some random things).
 - :musical_keyboard: Trying to learn jazz improv.
 - :tv: Recently interested in digital journalism.
-- :headphones: I run an instagram playlist [account](https://www.instagram.com/emacvault/?hl=en) if you would like some weekly new music.
 - :page_facing_up: See my [resume](https://enpuyou.netlify.app/static/resume-c9961bc0a3dd2a84517bdc486dec9118.pdf) to get more info.
 - :email: Reach me at youenpu@gmail.com
 
