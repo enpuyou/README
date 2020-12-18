@@ -29,7 +29,7 @@ researching in natural language processing and experimental music.
 - :email: Reach me at youenpu@gmail.com
 
 ![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&title_color=5232a8&icon_color=457a59)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enpuyou&layout=compact&title_color=5232a8&hide_border=true)](https://github.com/enpuyou)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enpuyou&layout=compact&title_color=5232a8&hide_border=true&langs_count=8)](https://github.com/enpuyou)
 
 ### Things I have worked with
 
