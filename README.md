@@ -25,7 +25,7 @@ researching in natural language processing and experimental music.
 - :electric_plug: Learning about ML, React.js, Node.js, and audio processing (or just some random things).
 - :musical_keyboard: Trying to learn jazz improv.
 - :tv: Recently interested in digital journalism.
-- :page_facing_up: See my [resume](https://enpuyou.netlify.app/static/resume-c9961bc0a3dd2a84517bdc486dec9118.pdf) to get more info.
+- :page_facing_up: See my [resume](https://github.com/enpuyou/resume/blob/main/main.pdf) to get more info.
 - :email: Reach me at youenpu@gmail.com
 
 ![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&title_color=5232a8&icon_color=457a59)
