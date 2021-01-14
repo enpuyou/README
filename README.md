@@ -21,7 +21,7 @@ I'm a senior at Allegheny College, double majoring in **Computer Science** and *
 thinking about the interaction of music and humanity in the digital world, currently
 researching in natural language processing and experimental music.
 
-- :dart: Currently working on [Tada](https://github.com/Tada-Project/tada) and [hearSound](https://github.com/enpuyou/hearSound).
+- :dart: Currently working on [Tada](https://tada-predict.netlify.app) and [hearSound](https://github.com/enpuyou/hearSound).
 - :electric_plug: Learning audio processing and SuperCollider.
 - :musical_keyboard: Trying to learn jazz improv.
 - :page_facing_up: See my [resume](https://github.com/enpuyou/resume/blob/main/main.pdf) to get more info.
