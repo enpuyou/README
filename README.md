@@ -29,6 +29,8 @@ cloud, software engineering, music technology.
 
 ![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&title_color=5232a8&icon_color=457a59)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enpuyou&layout=compact&title_color=5232a8&hide_border=true&langs_count=8)](https://github.com/enpuyou)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enpuyou&" alt="enpuyou" /></p>
+
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Allegheny-Mozilla-Fellows&repo=textMining)](https://github.com/Allegheny-Mozilla-Fellows/textMining)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tada-Project&repo=tada)](https://github.com/Tada-Project/tada)
