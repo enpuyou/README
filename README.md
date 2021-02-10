@@ -1,4 +1,4 @@
-# Hi I'm [Enpu](https://enpuyou.netlify.app) :eyes::space_invader:
+# Hi, I'm [Enpu](https://enpuyou.netlify.app) :eyes::space_invader:
 
 <a href="https://www.linkedin.com/in/enpuyou/">
   <img align="left" alt="Enpu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,12 +18,12 @@
 ### Pianist | Software Developer | Allegheny Mozilla Fellow
 
 I'm a senior at Allegheny College, double majoring in **Computer Science** and **Music**,
-thinking about the interaction of music and humanity in the digital world, currently
-researching in natural language processing and experimental music.
+thinking about the interaction of music and humanity in the digital world. Interested in
+cloud, software engineering, music technology.
 
-- :dart: Currently working on [Tada](https://tada-predict.netlify.app) and [hearSound](https://github.com/enpuyou/hearSound).
+- :dart: Working on [Tada](https://tada-predict.netlify.app) and [hearSound](https://github.com/enpuyou/hearSound).
 - :electric_plug: Learning audio processing and SuperCollider.
-- :musical_keyboard: Trying to learn jazz improv.
+- :musical_keyboard: Jazz improv beginner.
 - :page_facing_up: See my [resume](https://github.com/enpuyou/resume/blob/main/main.pdf) to get more info.
 - :email: Reach me at youenpu@gmail.com
 
