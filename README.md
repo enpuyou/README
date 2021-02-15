@@ -1,30 +1,15 @@
 # Hi, I'm [Enpu](https://enpuyou.netlify.app) :eyes::space_invader:
 
-<a href="https://www.linkedin.com/in/enpuyou/">
-  <img align="left" alt="Enpu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/enpuyou">
-  <img align="left" alt="Enpu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com">
-  <img align="left" alt="Enpu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UC1jivHCNYHYxwruBZgnMtrw">
-  <img align="left" alt="Enpu's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/youtube.svg" />
-</a>
-
-<br/>
-
 ### Pianist | Software Developer | Allegheny Mozilla Fellow
 
 I'm a senior at Allegheny College, double majoring in **Computer Science** and **Music**,
 thinking about the interaction of music and humanity in the digital world. Interested in
-cloud, software engineering, music technology.
+cloud computing, software engineering, music technology.
 
 - :dart: Working on [Tada](https://tada-predict.netlify.app) and [hearSound](https://github.com/enpuyou/hearSound).
 - :electric_plug: Learning audio processing and SuperCollider.
 - :musical_keyboard: Jazz improv beginner.
-- :page_facing_up: See my [resume](https://github.com/enpuyou/resume/blob/main/main.pdf) to get more info.
+- :page_facing_up: See my [resume](https://github.com/enpuyou/resume/blob/main/main.pdf).
 - :email: Reach me at youenpu@gmail.com
 
 ![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&title_color=5232a8&icon_color=457a59)
