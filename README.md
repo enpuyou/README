@@ -2,9 +2,9 @@
 
 ### Pianist | Software Developer
 
-I'm a senior at Allegheny College, double majoring in **Computer Science** and **Music**,
+A recent graduate from Allegheny College double majoring in **Computer Science** and **Music**,
 thinking about the interaction of music and humanity in the digital world. Interested in
-cloud computing, software engineering, music technology.
+cloud computing, software engineering, music technology. Currently working at ScienceLogic.
 
 - :dart: Working on [Tada](https://tada-predict.netlify.app) and [hearSound](https://github.com/enpuyou/hearSound).
 - :electric_plug: Learning audio processing and SuperCollider.
